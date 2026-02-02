@@ -1,0 +1,12 @@
+{
+  "name": "santanu_backend",
+  "version": "1.0.0",
+  "description": "A backend project with the help of chai aur code",
+  "license": "ISC",
+  "author": "santanu manna",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
